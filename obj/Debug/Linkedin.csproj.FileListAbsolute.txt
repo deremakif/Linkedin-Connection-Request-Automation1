@@ -1,0 +1,12 @@
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\bin\Debug\Linkedin.exe.config
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\bin\Debug\Linkedin.exe
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\bin\Debug\Linkedin.pdb
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\bin\Debug\WebDriver.dll
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\bin\Debug\WebDriver.Support.dll
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\bin\Debug\WebDriver.xml
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\bin\Debug\WebDriver.Support.xml
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\obj\Debug\Linkedin.csprojAssemblyReference.cache
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\obj\Debug\Linkedin.csproj.CoreCompileInputs.cache
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\obj\Debug\Linkedin.csproj.CopyComplete
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\obj\Debug\Linkedin.exe
+C:\Users\mehmet akif\Desktop\c# dosyası\Linkedin\Linkedin\Linkedin\obj\Debug\Linkedin.pdb
