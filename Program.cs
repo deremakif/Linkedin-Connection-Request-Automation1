@@ -29,13 +29,14 @@ namespace Linkedin
             //In free LinkedIn network, users have just 30 thousand connections.
             for (int j = 0; j < 30000; j++)
             {
+                IWebElement connect = driver.FindElement(By.XPath("/html/body/div[5]/div[5]/div[2]/div/div/div/div/div/div/div/section/artdeco-tabs/artdeco-tabpanel[1]/ul/li[1]/div/section/footer"));
+                connect.Click();
+                
                 // To load more suggestions, page should be scrolled down.
                 js.ExecuteScript("window.scrollBy(0,500000);");
                 System.Threading.Thread.Sleep(2000);
                 js.ExecuteScript("window.scrollBy(0,50);");
-
-                IWebElement connect = driver.FindElement(By.XPath("/html/body/div[5]/div[5]/div[2]/div/div/div/div/div/div/div/section/artdeco-tabs/artdeco-tabpanel[1]/ul/li[1]/div/section/footer"));
-                connect.Click();
+                System.Threading.Thread.Sleep(1000);
             }
         }
     }
