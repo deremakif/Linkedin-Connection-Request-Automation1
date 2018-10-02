@@ -29,6 +29,7 @@ namespace Linkedin
             //In free LinkedIn network, users have just 30 thousand connections.
             for (int j = 0; j < 30000; j++)
             {
+                //Please check xpaths before running this program! LinkedIn may have changed.
                 IWebElement connect = driver.FindElement(By.XPath("/html/body/div[5]/div[5]/div[2]/div/div/div/div/div/div/div/section/artdeco-tabs/artdeco-tabpanel[1]/ul/li[1]/div/section/footer"));
                 connect.Click();
                 
